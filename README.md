@@ -8,3 +8,5 @@ However, over Wi-Fi the Hash generated changes indicating that I Frame data has 
 This can also be used to keep track of I frames as a whole.
 
 FFMPEG-SO repo has been used to generate the necessary FFMPEG- WRAPPERS
+
+NUMPY-OPENCV-CONVERTER repo also has to be used to convert CV:MAT to nd.array
